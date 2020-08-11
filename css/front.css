@@ -12,12 +12,8 @@ body {
     display: block;
     z-index: -999;
     min-height: 100%;
-    min-width: 1024px;
-    width: auto;
-    height: auto;
+    min-width: 100%;
     position: fixed;
-    top: 0;
-    left: 0;
 }
 #avatar {
     height: 180px;
@@ -83,6 +79,15 @@ a {
     display: none;
 }
 
+.flag-title, .flag-title:hover {
+    border: none !important;
+    border-radius: 0%;
+    background-color: rgba(0, 0, 0, 0);
+    display: inline;
+    padding: 20px 10px;
+    margin: -20px;
+}
+
 @media (max-width: 1280px) {
     #fullscreen {
         left: calc(calc(1920px / 1.1) - 1920px);
@@ -146,10 +151,13 @@ a {
         display: inline-block;
         color: white;
         font-family: Arial;
-        margin-left: 40px;
+        margin-left: 20px;
+        font-size: 0.7em !important;
     }
     .content {
-        padding-top: 60px;
         padding-bottom: 2%;
+    }
+    .flag-title {
+      display: none;
     }
 }

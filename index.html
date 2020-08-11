@@ -32,6 +32,30 @@ permalink: /
                 {% if site.github_username %}
                 <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
                 {% endif %}
+                {% if site.gitlab_username %}
+                <li><a class="fa fa-2x fa-gitlab" href="https://gitlab.com/{{ site.gitlab_username }}"><span class="description">Gitlab</span></a></li>
+                {% endif %}
+                {% if site.angellist_username %}
+                <li><a class="fa fa-2x fa-angellist" href="https://angel.co/u/{{ site.angellist_username }}"><span class="description">Angellist</span></a></li>
+                {% endif %}
+                {% if site.deviantart_username %}
+                <li><a class="fa fa-2x fa-deviantart" href="https://www.deviantart.com/{{ site.devianart_username }}"><span class="description">DeviantArt</span></a></li>
+                {% endif %}
+                {% if site.imdb_username %}
+                <li><a class="fa fa-2x fa-imdb" href="https://www.imdb.com/user/{{ site.imdb_username }}"><span class="description">IMDB</span></a></li>
+                {% endif %}
+                {% if site.telegram_username %}
+                <li><a class="fa fa-2x fa-telegram" href="https://t.me/{{ site.telegram_username }}"><span class="description">Telegram</span></a></li>
+                {% endif %}
+                {% if site.skype_link %}
+                <li><a class="fa fa-2x fa-skype" href="https://join.skype.com/invite/{{ site.skype_link }}"><span class="description">Skype</span></a></li>
+                {% endif %}
+                {% if site.slack_space %}
+                <li><a class="fa fa-2x fa-slack" href="https://{{ site.slack_space }}.slack.com"><span class="description">Slack</span></a></li>
+                {% endif %}
+                {% if site.spotify_username %}
+                <li><a class="fa fa-2x fa-spotify" href="https://open.spotify.com/user/{{ site.spotify_username }}"><span class="description">Spotify</span></a></li>
+                {% endif %}
                 {% if site.codepen_username %}
                 <li><a class="fa fa-2x fa-codepen" href="https://codepen.io/{{ site.codepen_username }}"><span class="description">CodePen</span></a></li>
                 {% endif %}
@@ -84,10 +108,10 @@ permalink: /
                 <li><a class="fa fa-2x fa-weibo" href="https://weibo.com/{{ site.weibo_username }}"><span class="description">微博</span></a></li>
                 {% endif %}
                 {% if site.blog_url %}
-                <li><a class="fa fa-2x fa-compass" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
+                <li><a class="fa fa-2x fa-rss" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
                 {% endif %}
                 {% if site.email %}
-                <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
+                <li><a class="fa fa-2x fa-at" href="mailto:{{ site.email }}"><span class="description">Email</span></a></li>
                 {% endif %}
                 {% if site.public_key_url %}
                 <li><a class="fa fa-2x fa-key" href="{{ site.public_key_url }}"><span class="description">PGP Key</span></a></li>
@@ -97,13 +121,28 @@ permalink: /
             <div>
                 <ul>
                     {% if site.resume_en %}
-                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_en }}"><span class="description">English Resume in PDF</span></a></li>
+                    <li class="flag-title">
+                        <a href="{{ site.resume_en }}">
+                            <span>English Resume</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="fa fa-2x fa-file-pdf-o" href="{{ site.resume_en }}">
+                            <span class="description">English Resume</span>
+                        </a>
+                    </li>
                     {% endif %}
                     {% if site.resume_jp %}
-                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_jp }}"><span class="description">Japanese Resume in PDF</span></a></li>
-                    {% endif %}
-                    {% if site.resume_fr %}
-                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_en }}"><span class="description">French Resume in PDF</span></a></li>
+                    <li>
+                        <a class="fa fa-2x fa-file-pdf-o" href="{{ site.resume_jp }}">
+                            <span class="description">Japanese Resume</span>
+                        </a>
+                    </li>
+                    <li class="flag-title">
+                        <a href="{{ site.resume_jp }}">
+                            <span>Japanese Resume</span>
+                        </a>
+                    </li>
                     {% endif %}
                 </ul>
             </div>
