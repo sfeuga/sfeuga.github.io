@@ -15,7 +15,7 @@ permalink: /
         {% endif %}
         <link rel="stylesheet" href="{{ "css/front.css" | prepend: site.baseurl }}">
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="content">
@@ -93,11 +93,26 @@ permalink: /
                 <li><a class="fa fa-2x fa-key" href="{{ site.public_key_url }}"><span class="description">PGP Key</span></a></li>
                 {% endif %}
             </ul>
-        {% if site.last_sentence %}
-        <div>
-          <h5>{{ site.last_sentence }}</h5>
-        </div>
-        {% endif %}
+            {% if site.resume %}
+            <div>
+                <ul>
+                    {% if site.resume_en %}
+                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_en }}"><span class="description">English Resume in PDF</span></a></li>
+                    {% endif %}
+                    {% if site.resume_jp %}
+                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_jp }}"><span class="description">Japanese Resume in PDF</span></a></li>
+                    {% endif %}
+                    {% if site.resume_fr %}
+                    <li><a class="fa fa-2x fa-file-pdf-o" href="https://www.last.fm/user/{{ site.resume_en }}"><span class="description">French Resume in PDF</span></a></li>
+                    {% endif %}
+                </ul>
+            </div>
+            {% endif %}
+            {% if site.last_sentence %}
+            <div>
+              <h5>{{ site.last_sentence }}</h5>
+            </div>
+            {% endif %}
         </div>
     </body>
 </html>
