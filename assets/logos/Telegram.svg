@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg971"
+   sodipodi:docname="Telegram_2019_Logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata975">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2088"
+     id="namedview973"
+     showgrid="false"
+     inkscape:zoom="1.008"
+     inkscape:cx="66.964282"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g969"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs963">
+    <linearGradient
+       id="A"
+       x2="50%"
+       x1="50%"
+       y2="99.2583%">
+      <stop
+         stop-color="#2aabee"
+         offset="0"
+         id="stop958" />
+      <stop
+         stop-color="#229ed9"
+         offset="1"
+         id="stop960" />
+    </linearGradient>
+  </defs>
+  <g
+     fill-rule="evenodd"
+     id="g969">
+    <path
+       id="circle965"
+       style="fill:#dadada;fill-opacity:1"
+       d="M 500 0 A 500 500 0 0 0 0 500 A 500 500 0 0 0 500 1000 A 500 500 0 0 0 1000 500 A 500 500 0 0 0 500 0 z M 782.38086 229.10547 C 787.83984 229.00917 800.04316 230.36301 807.94727 236.77734 C 814.6242 242.19278 816.45775 249.51148 817.33789 254.64453 C 818.21803 259.77758 819.31099 271.47666 818.44141 280.61719 C 808.51179 384.94086 765.54844 638.11473 743.69141 754.96094 C 734.44136 804.4045 716.24395 820.98374 698.60156 822.60547 C 660.28709 826.13131 631.1937 797.28162 594.08398 772.95703 L 446.8418 674.05273 C 381.70086 631.12775 423.93045 607.53579 461.05469 568.97852 C 470.76922 558.88396 639.58177 405.33542 642.84766 391.40625 C 643.24353 389.66444 643.63634 383.17106 639.7793 379.74023 C 635.92225 376.3094 630.22495 377.49825 626.11719 378.41797 C 620.29401 379.74016 527.52923 441.05436 347.82227 562.36328 C 321.49064 580.44509 297.63896 589.25481 276.27148 588.79297 C 252.71354 588.28363 207.3997 575.47439 173.71289 564.52344 C 132.3938 551.09305 99.553281 543.99139 102.41406 521.18164 C 103.90252 509.30173 120.26364 497.15272 151.49609 484.73047 L 151.49805 484.72656 L 536.26562 318.99219 C 719.49315 242.78155 757.56539 229.54225 782.38086 229.10547 z " />
+  </g>
+</svg>

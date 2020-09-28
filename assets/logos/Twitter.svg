@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3626"
+   viewBox="0 0 1000 1000"
+   height="1000"
+   width="1000"
+   sodipodi:docname="Twittet.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2088"
+     id="namedview8108"
+     showgrid="false"
+     inkscape:zoom="0.72973127"
+     inkscape:cx="400.66082"
+     inkscape:cy="561.07241"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3626"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs3628" />
+  <metadata
+     id="metadata3631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path5319"
+     style="fill:#dadada;stroke-width:1.75797;stop-color:#000000"
+     d="M 500 0 A 500 500 0 0 0 0 500 A 500 500 0 0 0 500 1000 A 500 500 0 0 0 1000 500 A 500 500 0 0 0 500 0 z M 641.77539 200.5 C 685.27613 200.5 724.56106 218.88179 752.15625 248.27539 C 786.60602 241.4798 818.96298 228.89101 848.17969 211.57031 C 836.87331 246.87508 812.90314 276.48981 781.68164 295.21094 C 812.26928 291.55516 841.42748 283.44772 868.52148 271.4043 C 848.28206 301.7266 822.61805 328.36204 793.0918 349.70703 C 793.38538 356.19309 793.51953 362.70886 793.51953 369.25391 C 793.51953 569.06657 641.42467 799.49567 363.28125 799.5 C 277.8718 799.5 198.40278 774.47063 131.47852 731.57422 C 143.31556 732.97406 155.35798 733.66797 167.54883 733.66797 C 238.40891 733.66797 303.60947 709.50671 355.36523 668.93945 C 289.17801 667.7159 233.35332 623.99456 214.10156 563.91016 C 223.31468 565.67966 232.79241 566.63672 242.52148 566.63672 C 256.31906 566.63672 269.68972 564.77861 282.39648 561.31445 C 213.20211 547.45791 161.07812 486.31347 161.07812 413.08008 C 161.07813 412.402 161.07731 411.7829 161.09961 411.14844 C 181.47172 422.48428 204.77878 429.29402 229.58789 430.06055 C 188.99113 402.96654 162.29492 356.65082 162.29492 304.1875 C 162.29492 276.48912 169.78267 250.53098 182.76953 228.18359 C 257.34433 319.68112 368.78681 379.85385 494.46875 386.17773 C 491.87431 375.10726 490.54688 363.56377 490.54688 351.69727 C 490.54687 268.21888 558.26749 200.5 641.77539 200.5 z " />
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.99996 1000"
+   enable-background="new 0 0 708.767 179.332"
+   xml:space="preserve"
+   sodipodi:version="0.32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Lastfm_logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   <metadata id="metadata20">
+      <rdf:RDF>
+          <cc:Work rdf:about="">
+              <dc:format>image/svg+xml</dc:format>
+              <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+              <dc:title></dc:title>
+          </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs id="defs18">
+      <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 89.666 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="708.76703 : 89.666 : 1"
+       inkscape:persp3d-origin="354.38351 : 59.777334 : 1"
+       id="perspective22" />
+   </defs>
+   <sodipodi:namedview
+   inkscape:window-height="2088"
+   inkscape:window-width="3840"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="0.76753006"
+   inkscape:cx="354.72558"
+   inkscape:cy="414.05495"
+   inkscape:window-x="0"
+   inkscape:window-y="35"
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0"
+   inkscape:window-maximized="1" />
+<path
+   id="path16167"
+   style="fill:#dadada"
+   d="M 500 0 A 500 500 0 0 0 0 500 A 500 500 0 0 0 500 1000 A 500 500 0 0 0 1000 500 A 500 500 0 0 0 500 0 z M 336.96484 313.07031 C 439.4887 313.07031 491.14245 350.0697 523.51172 450.28125 L 548.94922 527.36133 C 567.45354 583.6362 599.82334 624.48828 677.67969 624.48828 C 730.09776 624.48828 757.8457 612.92559 757.8457 584.41016 C 757.8457 562.052 744.74568 545.86544 705.43359 536.61328 L 653.00977 524.2832 C 589.03609 508.86785 563.59766 475.71886 563.59766 423.30078 C 563.59766 339.27829 631.43268 313.07031 700.80469 313.07031 C 779.4318 313.07031 827.22254 341.59184 833.38867 410.9668 L 756.30664 420.21875 C 753.22062 387.0728 733.18142 373.19531 696.18164 373.19531 C 662.25903 373.19531 641.45117 388.61323 641.45117 414.82227 C 641.45117 437.94824 651.47101 451.82553 685.38477 459.5332 L 734.7168 470.32422 C 801.01164 485.74252 836.47461 518.12053 836.47461 580.55859 C 836.47461 657.64121 771.72762 686.92969 676.13477 686.92969 C 542.78022 686.92969 496.52878 626.80449 471.86719 552.03711 L 447.19727 474.95117 C 428.69295 418.6763 407.10977 374.74023 339.2793 374.74023 C 292.25068 374.74023 244.46484 408.65747 244.46484 503.4707 C 244.46484 577.47321 282.23103 623.72461 335.42578 623.72461 C 395.54267 623.72461 435.63281 579.01367 435.63281 579.01367 L 460.30273 646.07422 C 460.30273 646.07422 418.66991 686.92773 331.57617 686.92773 C 223.65399 686.92773 163.52539 623.72217 163.52539 506.55078 C 163.52539 384.75775 223.6532 313.07031 336.96484 313.07031 z " />
+</svg>

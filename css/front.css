@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-family: Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute;
     top: 0;
@@ -18,26 +18,24 @@ body {
 #avatar {
     height: 180px;
     border-radius: 100%;
-    border: 5px solid rgba(255, 255, 255, 1);
     margin-bottom: 40px;
     margin-top: 100px;
 }
 h1 {
-    color: white;
+    color: #dadada;
     font-weight: bold;
     letter-spacing: 0.1em;
     font-size: 4em;
-    font-family: 'Open Sans';
     margin: -10px 0;
     font-variant: petite-caps;
 }
-h3 {
-    color: white;
+h2 {
+    color: #dadada;
     padding-bottom: 20px;
     font-weight: thin;
 }
-h5 {
-    color: white;
+h3 {
+    color: #dadada;
     padding-bottom: 20px;
     font-weight: thin;
     font-size: 0.8em;
@@ -53,7 +51,6 @@ ul {
 }
 li {
     border-radius: 100%;
-    border: 2px solid white;
     color: white;
     margin: 8px;
     display: inline-block;
@@ -68,17 +65,133 @@ li:hover {
     -moz-transition: 500ms;
     transition: 500ms;
     text-decoration: none;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(38, 26, 104, 0.6);
 }
 a {
     color: white;
-    padding: 15px;
     text-decoration: none;
+}
+.accounts {
+    display: block;
+    width: 65px;
+    height: 65px;
 }
 .description {
     display: none;
 }
 
+#angellist {
+    background: url(../assets/logos/Angel.co.svg);
+    background-size: 65px 65px;
+}
+#blog {
+    background: url(../assets/logos/Blogger.svg);
+    background-size: 65px 65px;
+}
+#codepen {
+    background: url(../assets/logos/Codepen.svg);
+    background-size: 65px 65px;
+}
+#deviantart {
+    background: url(../assets/logos/Deviantart.svg);
+    background-size: 65px 65px;
+}
+#email {
+    background: url(../assets/logos/Email.svg);
+    background-size: 65px 65px;
+}
+#facebook {
+    background: url(../assets/logos/Facebook.svg);
+    background-size: 65px 65px;
+}
+#flickr {
+    background: url(../assets/logos/Flickr.svg);
+    background-size: 65px 65px;
+}
+#github {
+    background: url(../assets/logos/Github.svg);
+    background-size: 65px 65px;
+}
+#gitlab {
+    background: url(../assets/logos/GitLab.svg);
+    background-size: 65px 65px;
+}
+#imdb {
+    background: url(../assets/logos/IMDB.svg);
+    background-size: 65px 65px;
+}
+#instagram {
+    background: url(../assets/logos/Instagram.svg);
+    background-size: 65px 65px;
+}
+#lastfm {
+    background: url(../assets/logos/Lastfm.svg);
+    background-size: 65px 65px;
+}
+#linkedin {
+    background: url(../assets/logos/LinkedIn.svg);
+    background-size: 65px 65px;
+}
+#medium {
+    background: url(../assets/logos/Medium.svg);
+    background-size: 65px 65px;
+}
+#public_key {
+    background: url(../assets/logos/GnuPG.svg);
+    background-size: 65px 65px;
+}
+#reddit {
+    background: url(../assets/logos/Reddit.svg);
+    background-size: 65px 65px;
+}
+#skype {
+    background: url(../assets/logos/Skype.svg);
+    background-size: 65px 65px;
+}
+#slack_space {
+    background: url(../assets/logos/Slack.svg);
+    background-size: 65px 65px;
+}
+#soundcloud {
+    background: url(../assets/logos/Soundcloud.svg);
+    background-size: 65px 65px;
+}
+#spotify {
+    background: url(../assets/logos/Spotify.svg);
+    background-size: 65px 65px;
+}
+#stack {
+    background: url(../assets/logos/Stack.svg);
+    background-size: 65px 65px;
+}
+#steam {
+    background: url(../assets/logos/Steam.svg);
+    background-size: 65px 65px;
+}
+#telegram {
+    background: url(../assets/logos/Telegram.svg);
+    background-size: 65px 65px;
+}
+#tumblr {
+    background: url(../assets/logos/Tumblr.svg);
+    background-size: 65px 65px;
+}
+#twitter {
+    background: url(../assets/logos/Twitter.svg);
+    background-size: 65px 65px;
+}
+#vine {
+    background: url(../assets/logos/Vine.svg);
+    background-size: 65px 65px;
+}
+#vk {
+    background: url(../assets/logos/VK.svg);
+    background-size: 65px 65px;
+}
+#weibo {
+    background: url(../assets/logos/Weibo.svg);
+    background-size: 65px 65px;
+}
 .flag-title, .flag-title:hover {
     border: none !important;
     border-radius: 0%;
@@ -146,6 +259,9 @@ a {
         background-color: rgba(0, 0, 0, 0.5);
         color: white;
         text-decoration: none;
+    }
+    .accounts {
+      display: none;
     }
     .description {
         display: inline-block;

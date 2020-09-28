@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 256 256"
+   xml:space="preserve"
+   sodipodi:docname="Tumblr.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata8101"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs8099">
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3840"
+   inkscape:window-height="2088"
+   id="namedview8097"
+   showgrid="false"
+   inkscape:zoom="1.3293607"
+   inkscape:cx="335.64111"
+   inkscape:cy="577.079"
+   inkscape:window-x="0"
+   inkscape:window-y="35"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g8094"
+   inkscape:document-rotation="0" />
+<g
+   id="g8094">
+<path
+   id="path16073"
+   style="fill:#dadada;fill-opacity:1;stroke-width:0.5"
+   d="M 500,0 C 367.39176,0 240.2148,52.67842 146.44661,146.44661 52.67842,240.2148 0,367.39176 0,500 0,632.60824 52.67842,759.7852 146.44661,853.55339 240.2148,947.32158 367.39176,1000 500,1000 632.60824,1000 759.7852,947.32158 853.55339,853.55339 947.32158,759.7852 1000,632.60824 1000,500 1000,367.39176 947.32158,240.2148 853.55339,146.44661 759.7852,52.67842 632.60824,0 500,0 Z M 439.97025,140.09027 H 545.38798 V 323.45588 H 689.44594 V 432.44901 H 544.88742 v 224.08606 c 0.46435,30.46262 11.64844,72.48413 69.2781,70.94228 19.08816,-0.47787 44.68788,-6.03259 58.07303,-12.41635 l 34.61847,102.63542 c -12.9749,19.11971 -71.73737,41.26613 -124.64684,42.17229 C 425.39783,862.56919 365.99647,748.16147 365.99647,667.62962 V 432.44467 h -72.85349 v -92.9797 c 109.20917,-39.38455 135.46584,-137.8814 141.6332,-194.00078 0.4283,-3.8546 3.45837,-5.37392 5.19407,-5.37392 z"
+   sodipodi:nodetypes="ssssssssssccccccccccsccccs" />
+</g>
+</svg>

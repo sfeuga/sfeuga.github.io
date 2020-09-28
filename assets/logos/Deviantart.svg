@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   xml:space="preserve"
+   sodipodi:docname="Devianart.svg"
+   width="1000"
+   height="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata945"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs943" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3840"
+   inkscape:window-height="2088"
+   id="namedview941"
+   showgrid="false"
+   inkscape:zoom="0.83586087"
+   inkscape:cx="484.23704"
+   inkscape:cy="553.36469"
+   inkscape:window-x="0"
+   inkscape:window-y="35"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
+<path
+   id="path917"
+   style="fill:#dadada;fill-opacity:1;fill-rule:nonzero"
+   d="M 500 0 A 500 500 0 0 0 0 500 A 500 500 0 0 0 500 1000 A 500 500 0 0 0 1000 500 A 500 500 0 0 0 500 0 z M 586.42188 120.47852 L 739.44531 120.47852 L 739.44531 248.27539 L 602.38672 513.5625 C 596.24125 525.45644 604.8761 539.63477 618.26367 539.63477 L 739.44531 539.63477 L 739.44531 733.47266 L 515.78906 733.47266 C 499.19523 733.47266 483.98902 742.73421 476.37305 757.47656 L 413.31836 879.52148 L 260.55469 879.52148 L 260.55469 751.22461 L 397.35352 486.4375 C 403.49899 474.54356 394.86414 460.36523 381.47656 460.36523 L 260.55469 460.36523 L 260.55469 266.52734 L 483.95117 266.52734 C 500.545 266.52734 515.75123 257.26579 523.36719 242.52344 L 586.42188 120.47852 z " />
+</svg>
